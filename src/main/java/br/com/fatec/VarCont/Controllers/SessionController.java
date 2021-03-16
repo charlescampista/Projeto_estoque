@@ -66,4 +66,8 @@ public class SessionController {
 //	    }
 //	    return "redirect:/login";  //Where you go after logout here.
 //	}
+
+	public void recuperarLogin() {
+
+	}
 }
